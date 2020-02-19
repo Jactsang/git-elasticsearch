@@ -1,0 +1,5 @@
+{
+    "ELASTICSEARCH": {
+        "HOSTS": "https://10.215.148.127:9200"
+    }
+}
